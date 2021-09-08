@@ -1,1 +1,16 @@
+.App {
+  font-family: "Poppins", sans-serif;
+}
+.App header {
+  margin-top: 60px;
+}
 
+.App .logo {
+  max-width: 250px;
+  display: block;
+  margin: 0 auto;
+}
+
+.App footer {
+  margin-top: 50px;
+}
