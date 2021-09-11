@@ -19,7 +19,16 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="royal" />
         </main>
-        <footer className="text-center">coded by chelsea hurst</footer>
+        <footer className="text-center">
+          this project was coded by chelsea hurst and is{" "}
+          <a
+            href="https://github.com/churst73/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-source
+          </a>
+        </footer>
       </div>
     </div>
   );
