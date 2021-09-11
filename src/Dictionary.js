@@ -56,7 +56,7 @@ export default function Dictionary(props) {
               type="search"
               onChange={handleKeyword}
               className="search"
-              placeholder="royal"
+              placeholder="  royal"
             />
             <input
               type="submit"
