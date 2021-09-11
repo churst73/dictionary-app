@@ -46,7 +46,7 @@ export default function Dictionary(props) {
               type="submit"
               value="define"
               className="search-button"
-              onclick={handleSubmit}
+              onClick={handleSubmit}
             ></input>
           </form>
           <div className="hint">
