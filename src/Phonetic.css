@@ -1,0 +1,26 @@
+.Phonetic {
+  margin-bottom: 20px 0;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: #97753d;
+  margin-bottom: 12px;
+}
+
+.Phonetic a {
+  border: 2px solid #97753d;
+  border-radius: 30px;
+  background-color: #97753d;
+  padding: 10px 30px;
+  color: #f5f5f5;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  transition: all 150ms ease-in-out;
+  margin-right: 20px;
+  font-size: 15px;
+}
+
+.Phonetic a:hover {
+  border: 2px solid #97753d;
+  background-color: #f5f5f5;
+  color: #97753d;
+}

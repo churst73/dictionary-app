@@ -1,0 +1,16 @@
+.Meaning .part {
+  color: #f9d243;
+  margin-top: 12px;
+}
+
+.Meaning .definition {
+  color: #97753d;
+  font-size: 20px;
+}
+
+.Meaning .example {
+  color: #d9b97f;
+  margin-bottom: 20px;
+  margin-top: 6px;
+  font-size: 17px;
+}
