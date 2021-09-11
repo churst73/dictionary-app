@@ -10,7 +10,7 @@ export default function App() {
           <h1 className="mb-5">WHAT DOES THAT MEAN?</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="royal" />
         </main>
         <footer className="text-center">coded by chelsea hurst</footer>
       </div>
